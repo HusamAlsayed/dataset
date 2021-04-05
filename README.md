@@ -9,9 +9,7 @@ headlines generation , ext ..
 
 this folder containing a transcription of various useful youtube channel like MIT , 3blue1brown , mathloger , ext .. 
 
-unfortunetrly i didn't provide the headline of each video , each excel file containing the transcription of all the videos in the channel , i am planning to add some meta data 
-
-nearby . 
+unfortunetrly i didn't provide the headline of each video , each excel file containing the transcription of all the videos in the channel , i am planning to add some meta data nearby . 
 
 
 ### Alriyad Folder ..
